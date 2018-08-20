@@ -1,1 +1,1 @@
-# static.om.ua
+# lib.om.ua
